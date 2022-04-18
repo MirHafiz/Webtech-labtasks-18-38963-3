@@ -1,0 +1,1 @@
+<h1 style="font-size:100%;"> &copy; Daily Outfit Attire Management System. 2022</h1>
